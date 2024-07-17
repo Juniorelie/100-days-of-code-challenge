@@ -15,3 +15,12 @@ Still going through my learning of pyhton and today I built a tip calculator and
 - Operations
 - Type conversion
 - f-Strings
+
+### #Day3
+
+Another day with python programming ! Today I built a "choose your own adventure" game and the topics I learned were : 
+
+- Conditional statements
+- Logical operators
+- Code blocks
+- Scope
