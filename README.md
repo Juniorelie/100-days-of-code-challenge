@@ -24,3 +24,7 @@ Another day with python programming ! Today I built a "choose your own adventure
 - Logical operators
 - Code blocks
 - Scope
+
+### #Day4
+
+Today I learned about randomisation in python and python lists, to put it in practice I created a rock, paper scissors game ! Can you beat the computer ?
